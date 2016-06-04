@@ -1,0 +1,15 @@
+.input-group-addon {
+    background-color: #0898F3;
+    color: white;
+    position: relative;
+    border-radius: 4px 0 0 4px;
+}
+
+.form-control {
+    border-radius: 10px 0 0 10px;
+
+}
+
+.glyphicon {
+    padding: 5px;
+}
